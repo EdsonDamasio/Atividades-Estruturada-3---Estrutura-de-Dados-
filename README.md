@@ -1,6 +1,6 @@
 # Atividade Estruturada 3 - Estrutura de Dados
 
-Atividade proposta na disciplina **Estrutura de Dados** do curso de **Ciência da Computação**, sob orientação do professor **Afonso Nirton**.
+Atividade proposta na disciplina **Estrutura de Dados** do curso de **Ciência da Computação**, sob orientação do professor **Nirton Afonso**.
 
 ---
 
